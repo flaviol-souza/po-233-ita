@@ -12,12 +12,13 @@ Basically we generate 1000 frames to each digital modulation (8-PSK, 16-QAM, 64-
 
 ![alt text](https://github.com/flaviol-souza/po-233-ita/blob/master/images/waves.png)
 
-The frames produced has noises into signals as can be observed in Waves with Noises 1 and 2 figures.
-
+The frames produced has noises into signals as can be observed in Waves with Noises 1 and 2 figures. The waves are available on dataset/origin.
 <p float="left">
-    <img align="right"  src="https://github.com/flaviol-souza/po-233-ita/blob/master/images/layout1.png">
-    <img align="right"  src="https://github.com/flaviol-souza/po-233-ita/blob/master/images/layout2.png">
+    <img align="left" width="300" height="300" src="https://github.com/flaviol-souza/po-233-ita/blob/master/images/layout1.png">
+    <img align="left" width="300" height="300" src="https://github.com/flaviol-souza/po-233-ita/blob/master/images/layout2.png">
 </p>
+
+After we transform the bandpass signal to the time domain, we applied to diversify technics to extract the main features of the signal. It that result a new dataset available on dataset/transform.
 
 ## Build With
 * Matlab (R2020b)
