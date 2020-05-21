@@ -88,3 +88,4 @@ else
   disp("Data files exist. Skip data generation.")
 end
 
+helperModClassPlotTimeDomain(dataDirectory,modulationTypes,fs)
