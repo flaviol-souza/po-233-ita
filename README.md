@@ -10,7 +10,7 @@ Inspired by Matlab`s example [Modulation Classification with Deep Learning](http
 
 Basically we generate 1000 frames to each digital modulation (8-PSK, 16-QAM, 64-QAM, BPSK, CPFSK, GFSK, QPSK and PAM4) on Matlab according to [Modulation Classification with Deep Learning](https://www.mathworks.com/help/comm/examples/modulation-classification-with-deep-learning.html?s_tid=mwa_osa_a).
 
-![alt text](https://github.com/flaviol-souza/rlm/blob/master/images/waves.png)
+![alt text](https://github.com/flaviol-souza/po-233-ita/blob/master/images/waves.png)
 
 ## Build With
 * Matlab (R2020b)
