@@ -14,7 +14,7 @@ Basically we generate 1000 frames to each digital modulation (8-PSK, 16-QAM, 64-
 
 The frames produced has noises into signals as can be observed in Waves with Noises 1 and 2 figures. The waves are available on dataset/origin.
 
-![alt text](https://github.com/flaviol-souza/po-233-ita/blob/master/images/layout1.png) ![alt text](https://github.com/flaviol-souza/po-233-ita/blob/master/images/ayout2.png)
+![alt text](https://github.com/flaviol-souza/po-233-ita/blob/master/images/layout1.png) ![alt text](https://github.com/flaviol-souza/po-233-ita/blob/master/images/layout2.png)
 
 After we transform the bandpass signal to the time domain, we applied to diversify technics to extract the main features of the signal. It that result a new dataset available on dataset/transform.
 
