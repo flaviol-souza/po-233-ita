@@ -18,7 +18,7 @@ The frames produced has noises into signals as can be observed in Waves with Noi
     <img width="300" height="300" src="https://github.com/flaviol-souza/po-233-ita/blob/master/images/layout2.png">
 </p></br>
 
-After we transform the bandpass signal to the time domain, we applied to diversify technics to extract the main features of the signal. It that result a new dataset available on dataset/transform.
+After we transform the bandpass signal to the time domain, we applied to diversify technics (Fourier and Wavelet transform, Statistical Features, Constellation Shape Features, Cyclostationarity, Zero-crossing, and S transform)) to extract the main features of the signal. It that result a new dataset available on dataset/transform.
 
 ## Build With
 * Matlab (R2020b)
@@ -34,6 +34,7 @@ Use the package manager R to install foobar.
 install.packages("R.matlab")
 install.packages("wavelets")
 install.packages("tuneR")
+install.packages("seewave")
 install.packages("data.table")
 install.packages("GENEAread")
 install.packages("constellation")
