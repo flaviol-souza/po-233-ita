@@ -1,12 +1,16 @@
 ## Um reconhecimento de modulação digital baseado em característica para rede assistidas por VANT em um aprendizado de máquina
-#### This is the result of the work home of the PO-233 discipline at [ITA](http://ita.br/)
-
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
 ![GitHub watchers](https://img.shields.io/github/watchers/flaviol-souza/po-233-ita?style=social)
 ![GitHub repo size](https://img.shields.io/github/repo-size/flaviol-souza/po-233-ita)
 ![Twitter Follow](https://img.shields.io/twitter/follow/flaviolsouza?style=social)
+#### This is the result of the work home of the PO-233 discipline at [ITA](http://ita.br/)
 
 ## Description
+Inspired by Matlab`s example [Modulation Classification with Deep Learning](https://www.mathworks.com/help/comm/examples/modulation-classification-with-deep-learning.html?s_tid=mwa_osa_a), this project has goals to identified the modulation schema by a machine learning. Implemented during the PO-233 discipline at ITA, I leave here the artifacts to reproduce the experiment.
+
+Basically we generate 1000 frames to each digital modulation (8-PSK, 16-QAM, 64-QAM, BPSK, CPFSK, GFSK, QPSK and PAM4) on Matlab according to [Modulation Classification with Deep Learning](https://www.mathworks.com/help/comm/examples/modulation-classification-with-deep-learning.html?s_tid=mwa_osa_a).
+
+![alt text](https://github.com/flaviol-souza/rlm/blob/master/images/waves.png)
 
 ## Build With
 * Matlab (R2020b)
