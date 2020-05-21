@@ -12,6 +12,9 @@ Basically we generate 1000 frames to each digital modulation (8-PSK, 16-QAM, 64-
 
 ![alt text](https://github.com/flaviol-souza/po-233-ita/blob/master/images/waves.png)
 
+The frames produced has noises into signals as can be observed in Waves with Noises 1 and 2 figures.
+![alt-text-1](https://github.com/flaviol-souza/po-233-ita/blob/master/images/layout1.png "Noises Waves 1")  ![alt-text-2](https://github.com/flaviol-souza/po-233-ita/blob/master/images/layout2.png "Noises Waves 2")
+
 ## Build With
 * Matlab (R2020b)
 * Jupyter Lab 
