@@ -37,6 +37,7 @@ install.packages("tuneR")
 install.packages("seewave")
 install.packages("data.table")
 install.packages("GENEAread")
+devtools::install_github("marksendak/constellation")
 install.packages("constellation")
 ```
 
@@ -48,9 +49,9 @@ Step 1
 * Open the Matlab and execute the waveform_generation.m script
 * Copy the files results (frame*.mat) to database/origin 
 
-```
-<usage_example>
-```
+Step 2
+* Open the transformData.ipynb file on Jupyter Lab and run it.
+* Check if there are 10 files on database/transform 
 
 Add run commands and examples you think users will find useful. Provide an options reference for bonus points!
 
