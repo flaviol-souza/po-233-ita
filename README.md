@@ -41,6 +41,9 @@ devtools::install_github("marksendak/constellation")
 install.packages("constellation")
 ```
 
+Use o scikit-learn no ambiente de acordo com o tutorial, [check here](https://scikit-learn.org/stable/install.html)
+
+
 ## Usage
 
 To use <project_name>, follow these steps:
@@ -53,7 +56,9 @@ Step 2
 * Open the transformData.ipynb file on Jupyter Lab and run it.
 * Check if there are 10 files on database/transform 
 
-Add run commands and examples you think users will find useful. Provide an options reference for bonus points!
+Step 3
+
+
 
 ## Contributing 
 <!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
@@ -70,8 +75,8 @@ Alternatively see the GitHub documentation on [creating a pull request](https://
 ## Contributors
 Thanks to the following people who have contributed to this project:
 * Flavio Souza [e-mail](mailto:flavio.souza@ifsp.edu.br) or [web profile](https://www.flaviosouza.net) 
-    * Felipe Verri (_Orientador_) [e-mail](mailto:verri@ita.br) or [web profile](http://www.comp.ita.br/~verri/) 
-    * Lourenço Junior (_Orientador_) [e-mail](mailto:ljr@ita.br)
+    * Felipe Verri (_Advisor_) [e-mail](mailto:verri@ita.br) or [web profile](http://www.comp.ita.br/~verri/) 
+    * Lourenço Junior (_Advisor_) [e-mail](mailto:ljr@ita.br)
 
 ## License
 [APACHE](https://www.apache.org/licenses/LICENSE-2.0)
