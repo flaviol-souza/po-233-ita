@@ -42,7 +42,11 @@ install.packages("constellation")
 ```
 
 Use o scikit-learn no ambiente de acordo com o tutorial, [check here](https://scikit-learn.org/stable/install.html)
+It's yet needed to install some packages on Python:
 
+```bash
+pip install mlxtend
+```
 
 ## Usage
 
@@ -54,11 +58,10 @@ Step 1
 
 Step 2
 * Open the transformData.ipynb file on Jupyter Lab and run it.
-* Check if there are 10 files on database/transform 
+* Check if there are 1 file at database/transform 
 
 Step 3
-
-
+* Execute the model analysis script to get the performance of Decision Tree and Random Forest
 
 ## Contributing 
 <!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
