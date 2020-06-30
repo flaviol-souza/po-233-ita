@@ -19,7 +19,7 @@ The frames produced has noises into signals as can be observed in Waves with Noi
 </p></br>
 
 After we transform the bandpass signal to the time domain, we applied to diversify technics (Fourier and Wavelet transform, Statistical Features, Constellation Shape Features, Cyclostationarity, Zero-crossing, and S transform)) to extract the main features of the signal. It that result a new dataset available on dataset/transform.
-The dataset have 8000 frames (samples) with 7.192features.
+The dataset have 8000 frames (samples) with 7.192 features.
 
 ## Build With
 * Matlab (R2020b)
@@ -47,6 +47,7 @@ It's yet needed to install some packages on Python:
 
 ```bash
 pip install mlxtend
+pip install seaborn
 ```
 
 ## Usage
